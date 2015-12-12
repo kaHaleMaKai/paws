@@ -1,2 +1,2 @@
-# paws
-firefox add-on for replacing webcontent with other content
+#paws
+replace website content with user defined content

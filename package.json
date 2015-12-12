@@ -1,0 +1,15 @@
+{
+  "title": "paws",
+  "name": "paws",
+  "version": "0.0.1",
+  "description": "replace website content with user defined content",
+  "main": "index.js",
+  "author": "Lars Winderling",
+  "engines": {
+    "firefox": ">=38.0a1"
+  },
+  "license": "MIT",
+  "keywords": [
+    "jetpack"
+  ]
+}
